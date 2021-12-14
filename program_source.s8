@@ -1,2 +1,4 @@
 SETT r1, 0x45
+SETT r2, 0x13
+SKRIV r1
 STOPP
